@@ -1,6 +1,6 @@
 Hi, I’m Lorran Mariúba de Oliveira and I am Software Developer at SEFIN(Fiance Department from my State Rondônia - Brazil). 
 I’m interested in send my new projects about systems development. Learn from other projects which are on GitHub. 
-I’m currently learning Java, Ruby on Rails, React, more about HTML5/CSS3/JavaScript, GIT and SQL. 
+I’m currently learning Java, Ruby on Rails, more about HTML5/CSS3/JavaScript. 
 I’m looking to collaborate on projects from people who are starting their careers in systems development. 
 About my projects, I hope people can help me improve my knowledge and my projects, giving me some tips and show me my weakness in software development.
 
